@@ -1,0 +1,146 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.clarins-content{
+    background-image: url(/logo-banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  filter:brightness(-10);
+    height: 600px;
+    width: 100%;
+
+}
+
+
+#logo {
+    position: absolute;
+    margin: auto;
+    top: 20px;
+    width: 100%;
+    height: 50px;
+}
+
+
+.logo-text{
+    text-align: center;
+    position: relative;
+    top: 480px;
+    font-size: 50px;
+    font-weight: 100;
+    color:#fedcdc;
+}
+
+.intro-content{
+    height: 200px;
+    width: 100%;
+    font-size: 30px;
+    text-align: left;
+    line-height: 1.13;
+    align-items: center;
+    justify-content: center;
+    background-color:rgb(176, 239, 240);
+    padding: 30px 15px;
+    
+}
+
+
+.growth-content{
+    display: flex;
+    width: 100%;
+    height: 400px;
+    background-color: #e3d6cb;
+   
+}
+.sec1{
+    padding: 150px 40px ;
+}
+
+#para1{
+    font-size: 76px;
+    font-weight: 100;
+}
+
+span{
+    font-size: 16px;
+}
+
+
+
+.sec2{
+    padding: 160px 50px ;
+}
+
+#para2{
+    font-size: 76px;
+    font-weight: 100;
+}
+
+span{
+    font-size: 16px;
+}
+
+.vl1 {
+    position: relative;
+    top: 100px;
+    border-left: 6px solid rgb(14, 14, 13);
+    height: 250px;
+  }
+
+  .vl2 {
+    position: relative;
+    top: 100px;
+    border-left: 6px solid rgb(14, 14, 13);
+    height: 250px;
+  }
+
+
+  .sec3{
+    padding: 160px 50px ;
+}
+
+#para3{
+    font-size: 76px;
+    font-weight: 100;
+}
+
+span{
+    font-size: 16px;
+}
+
+.section-main1{
+    display: flex;
+}
+
+#text1{
+    font-size: 50px;
+    position: relative  ;
+    top:130px;
+    left: 40px;
+    text-align: center;
+  text-decoration: underline 4px solid black;
+}
+
+#content1{
+    margin-top: 170px;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
+
+img{
+    height: 500px;
+}
+
+#content2{
+    margin-top: 50px;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
